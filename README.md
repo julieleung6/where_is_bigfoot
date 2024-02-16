@@ -11,7 +11,9 @@ Mr. David Attenborough is interested in featuring Bigfoot in his upcoming nature
 Performed multiple model types such as Multinomial Naive Bayes, Logistic Regression, and numerous tree-based models. 
 
 Logistic Regression has the highest accuracy score of 80%.
- 
+
+
+<img src='images/logreg.png' width='500' height='500'>
 
 ## For More Information
-See the full analysis in the Jupyter Notebook or review this presentation. For additional info, Julie Leung.
+See the full analysis in the Jupyter Notebook or review this presentation. For additional info, contact Julie Leung.
