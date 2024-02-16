@@ -1,4 +1,3 @@
-# bigfoot_analysis
 ## Overview
 
 
