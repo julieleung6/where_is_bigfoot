@@ -2,15 +2,15 @@
 
 
 ## Business Proposition
-
+Mr. David Attenborough is interested in featuring Bigfoot in his upcoming nature documentary. His camera crew would like to confidently know where to set up the cameras to capture a glimpse of this elusive creature. 
 
 ## Data Sources
 - BigFoot Field Researchers Organization 
 
-## Best Model
+## Modeling
 Performed multiple model types such as Multinomial Naive Bayes, Logistic Regression, and numerous tree-based models. 
 
-With Logistic Regression, having the highest accuracy score of 80%.
+Logistic Regression has the highest accuracy score of 80%.
  
 
 ## For More Information
