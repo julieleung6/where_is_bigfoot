@@ -35,8 +35,8 @@ In addition, I performed Non-Negative Matrix Factorization (NMF) topic modeling 
 <br />
 
 <p float="left">
-  <img src='images/nmf.png' width='500' height='500'>
-  <img src='images/tsne.png' width='500' height='500'>
+  <img src='images/nmf.png' width='300' height='300'>
+  <img src='images/tsne.png' width='300' height='300'>
 </p>
 
 Where, <br />
