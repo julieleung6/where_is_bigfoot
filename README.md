@@ -1,5 +1,5 @@
 ## Overview
-To conduct a text classification in NLP
+To conduct a text classification using natural language processing (NLP)
 
 ## Business Proposition
 Mr. David Attenborough is interested in featuring Bigfoot in his upcoming nature documentary. His camera crew would like to confidently know where to set up the cameras to capture a glimpse of this elusive creature. 
